@@ -15,4 +15,4 @@ Remember, it's self-paced so feel free to take a break! ☕️
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
 # 我的第一个GitHub仓库
-这是我在GitHub上的第一个仓库，欢迎大家！
+这是我在GitHub上的第一个仓库，欢迎大家来玩！
